@@ -8,3 +8,7 @@ updates made on master on github before rebase
 this will be a change that conflicts 
 with whatever is on the remote side.
 this was edited locally.
+
+##purpose
+this is to provide exanples on how to use 
+both git and github together
