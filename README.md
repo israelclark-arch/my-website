@@ -12,3 +12,6 @@ this was edited locally.
 ##purpose
 this is to provide exanples on how to use 
 both git and github together
+
+##Getting started##
+To get started with this project, just 'clone' this repository.
